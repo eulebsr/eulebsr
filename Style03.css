@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(fundo4.jpg);
+}
+h1 {
+    text-align: left;
+    margin-top: 50px;
+    color: #ffffff;
+    text-decoration: underline;
+}
+p {
+    text-align: left;
+    margin-top: 20px;
+    font-size: 32px;
+    color: #ffffff;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    display: table;
+}
+
+li {
+    margin-bottom: 10px;
+    text-align: left;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

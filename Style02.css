@@ -1,0 +1,33 @@
+.container-imagem img {
+    width: 300px;
+    height: 200px;
+    margin: 3px;
+    margin-top: 40px;
+}
+
+.container-imagem {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+
+}
+
+.texto {
+    position: absolute;
+    top: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 42px;
+    font-family: 'Copperplate Gothic';
+    text-align: center;
+    text-decoration: underline;
+    width: 100%;
+}
+
+h3 {
+    text-align: right;
+    color: white;
+    font-family:'Times New Roman';
+    font-size: 15px;
+    margin-top: 300px;
+  }
+  
